@@ -1,5 +1,4 @@
-:------------------:
-![](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/i.jpg)
+*![](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/i.jpg)*
 
 # Министерство образования Российской Федерации
 МОСКОВСКИЙ ГОСУДАРСТВЕННЫЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ им. Н.Э. БАУМАНА
