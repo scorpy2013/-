@@ -10,7 +10,7 @@
 ##### У вас есть несколько каталогов товаров, которые были заполнены вручную. У каждого товара есть набор атрибутов (штрих-код, размеры, цвет и т. п.). В разных каталогах у одного и того же товара могут быть заполнены разные атрибуты. Напишите алгоритм, который для каждого товара выведет его номер в каждом из каталогов (если такой есть).
 ---
 ## Содержание отчета 
-### [Теоретическая часть]()
-### [Описание программы]()
-### [Тесты]()
-### [Запуск программы]()
+### [Теоретическая часть](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/Theory%20Part.md)
+### [Описание программы](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/ProgramDescription.md)
+### [Тесты](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/Tests.md)
+### [Запуск программы](https://github.com/scorpy2013/Algorithms-and-Data-Structures-HW/blob/main/Launching.md)
